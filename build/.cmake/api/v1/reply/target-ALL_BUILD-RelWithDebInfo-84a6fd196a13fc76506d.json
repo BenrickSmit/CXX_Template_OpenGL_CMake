@@ -1,0 +1,127 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"dependencies/GLFW/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "glfw::@5b66083ff58f70ea9d50"
+		},
+		{
+			"id" : "boing::@a1c56bc14b5146f1a826"
+		},
+		{
+			"id" : "gears::@a1c56bc14b5146f1a826"
+		},
+		{
+			"id" : "heightmap::@a1c56bc14b5146f1a826"
+		},
+		{
+			"id" : "offscreen::@a1c56bc14b5146f1a826"
+		},
+		{
+			"id" : "wave::@a1c56bc14b5146f1a826"
+		},
+		{
+			"id" : "msaa::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "cursor::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "monitors::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "empty::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "glfwinfo::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "iconify::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "gamma::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "joysticks::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "opacity::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "threads::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "timeout::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "title::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "icon::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "inputlag::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "tearing::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "simple::@a1c56bc14b5146f1a826"
+		},
+		{
+			"id" : "sharing::@a1c56bc14b5146f1a826"
+		},
+		{
+			"id" : "clipboard::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "events::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "reopen::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "particles::@a1c56bc14b5146f1a826"
+		},
+		{
+			"id" : "splitview::@a1c56bc14b5146f1a826"
+		},
+		{
+			"id" : "triangle-vulkan::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "windows::@dec9370cc8ed6f5e3cb6"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CMakePredefinedTargets"
+	},
+	"id" : "ALL_BUILD::@2f138bb55bb0bc551133",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "dependencies/GLFW",
+		"source" : "dependencies/GLFW"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

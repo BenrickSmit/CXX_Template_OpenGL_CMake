@@ -1,0 +1,167 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"dependencies/GLEW/build/cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 198,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 235,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 256,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 262,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 270,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 276,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 279,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/RelWithDebInfo/libglew32.lib"
+			],
+			"targetId" : "glew_s::@78f1bcc7582fdd5043f6",
+			"targetIndex" : 15,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Runtime",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/RelWithDebInfo/glewinfo.exe"
+			],
+			"targetId" : "glewinfo::@78f1bcc7582fdd5043f6",
+			"targetIndex" : 16,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Runtime",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/RelWithDebInfo/visualinfo.exe"
+			],
+			"targetId" : "visualinfo::@78f1bcc7582fdd5043f6",
+			"targetIndex" : 46,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Development",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"build/dependencies/GLEW/build/cmake/glew.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Runtime",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"build/bin/RelWithDebInfo/glew32.pdb"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Development",
+			"destination" : "include/GL",
+			"paths" : 
+			[
+				"dependencies/GLEW/build/cmake/../../include/GL/wglew.h",
+				"dependencies/GLEW/build/cmake/../../include/GL/glew.h",
+				"dependencies/GLEW/build/cmake/../../include/GL/glxew.h",
+				"dependencies/GLEW/build/cmake/../../include/GL/eglew.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Development",
+			"destination" : "lib/cmake/glew",
+			"exportName" : "glew-targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "glew_s::@78f1bcc7582fdd5043f6",
+					"index" : 15
+				}
+			],
+			"paths" : 
+			[
+				"dependencies/GLEW/build/cmake/CMakeFiles/Export/lib/cmake/glew/glew-targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Development",
+			"destination" : "lib/cmake/glew",
+			"paths" : 
+			[
+				"dependencies/GLEW/build/cmake/glew-config.cmake",
+				"dependencies/GLEW/build/cmake/CopyImportedTargetProperties.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "dependencies/GLEW/build/cmake",
+		"source" : "dependencies/GLEW/build/cmake"
+	}
+}

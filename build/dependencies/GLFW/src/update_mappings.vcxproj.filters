@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\CMakeFiles\44e9d2dc85b4a98f1a87d0fb3d96ce0b\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\CMake\GenerateMappings.cmake" />
+    <None Include="E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D486729A-734D-3ACF-B173-71D2509DB2DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E2503363-12F4-39A5-B9CC-549DB9F65798}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

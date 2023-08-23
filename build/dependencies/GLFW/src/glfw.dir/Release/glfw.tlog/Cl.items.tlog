@@ -1,0 +1,15 @@
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\context.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\context.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\init.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\init.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\input.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\input.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\monitor.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\monitor.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\vulkan.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\vulkan.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\window.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\window.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\win32_init.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\win32_init.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\win32_joystick.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\win32_joystick.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\win32_monitor.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\win32_monitor.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\win32_time.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\win32_time.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\win32_thread.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\win32_thread.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\win32_window.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\win32_window.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\wgl_context.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\wgl_context.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\egl_context.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\egl_context.obj
+E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GLFW\src\osmesa_context.c;E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\build\dependencies\GLFW\src\glfw.dir\Release\osmesa_context.obj

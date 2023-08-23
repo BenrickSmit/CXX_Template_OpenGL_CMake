@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPython/Support.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPython3.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake
+E:/Programming/CPP/GeneralCXXTemplate_Mix_OpenGL_ImGUI/dependencies/GoogleTest/googletest/CMakeLists.txt
+E:/Programming/CPP/GeneralCXXTemplate_Mix_OpenGL_ImGUI/dependencies/GoogleTest/googletest/cmake/Config.cmake.in
+E:/Programming/CPP/GeneralCXXTemplate_Mix_OpenGL_ImGUI/dependencies/GoogleTest/googletest/cmake/gtest.pc.in
+E:/Programming/CPP/GeneralCXXTemplate_Mix_OpenGL_ImGUI/dependencies/GoogleTest/googletest/cmake/gtest_main.pc.in
+E:/Programming/CPP/GeneralCXXTemplate_Mix_OpenGL_ImGUI/dependencies/GoogleTest/googletest/cmake/internal_utils.cmake

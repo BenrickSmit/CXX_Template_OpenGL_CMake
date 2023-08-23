@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GoogleTest\googletest\src\gtest_main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Programming\CPP\GeneralCXXTemplate_Mix_OpenGL_ImGUI\dependencies\GoogleTest\googletest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9CE9E0A1-D9EA-32A7-A238-A988D9D681BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

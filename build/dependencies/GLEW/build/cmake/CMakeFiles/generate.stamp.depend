@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake
+E:/Programming/CPP/GeneralCXXTemplate_Mix_OpenGL_ImGUI/build/CMakeFiles/3.23.0-rc2/CMakeCCompiler.cmake
+E:/Programming/CPP/GeneralCXXTemplate_Mix_OpenGL_ImGUI/dependencies/GLEW/build/cmake/CMakeLists.txt
+E:/Programming/CPP/GeneralCXXTemplate_Mix_OpenGL_ImGUI/dependencies/GLEW/build/cmake/cmake_uninstall.cmake.in
+E:/Programming/CPP/GeneralCXXTemplate_Mix_OpenGL_ImGUI/dependencies/GLEW/glew.pc.in
